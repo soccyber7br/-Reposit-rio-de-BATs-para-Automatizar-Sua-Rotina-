@@ -94,4 +94,4 @@ Desenvolvido para uso interno na rotina de **inventário e conformidade de ativo
 
 ---
 
-*White Teams — Controle de Identidade e Conformidade*
+*SharkTeam Soc — Controle de Identidade e Conformidade*
