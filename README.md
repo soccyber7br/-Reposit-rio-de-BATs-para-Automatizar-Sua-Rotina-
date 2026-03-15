@@ -63,7 +63,7 @@ Data/Hora : 10/03/2026 14:32:01
 Maquina   : DESKTOP-ABC123
 
 [Usuario Logado]
-dominio\renata.scheiner
+dominio\admin
 
 [Hostname]
 DESKTOP-ABC123
